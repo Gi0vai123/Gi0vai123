@@ -70,11 +70,19 @@
 
 ---
 
-## 🐍 Contribuições
+## 🌊 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gi0vai123&theme=react-dark&bg_color=0d1117&color=39FF14&line=8A2BE2&point=39FF14&area=true&hide_border=true"/>
+
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gi0vai123/Gi0vai123/output/github-contribution-grid-snake.svg">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:3a7bd5&height=100&section=header"/>
 </p>
+
+
 
 ---
 
