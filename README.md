@@ -5,7 +5,7 @@
 
 
 <p align="center">
-💻 Dev Web | 🎮 Game Dev | 🎨 Designer  
+💻 Dev Web | 🎮 Game Dev | 🎨 Designer
 </p>
 
 <p align="center">
@@ -30,10 +30,16 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="GDScript (Godot)">
 
 </div>
@@ -46,7 +52,7 @@
 
 <img src="https://img.shields.io/badge/Hacking-39FF14?style=for-the-badge&logo=hackthebox&logoColor=black">
 <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/APIs-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white">
 
 </div>
@@ -56,17 +62,24 @@
 
 ## 🎮 Projetos
 
-### 🎮 Jogos na Godot
-- Desenvolvimento de jogos utilizando GDScript  
-- Foco em lógica, mecânicas e sistemas interativos  
+### 🍲 Meloon — IA em Rust
+- Aplicação desenvolvida em equipe com colegas de faculdade, em Rust, com integração a uma IA gratuita
+- Gera receitas a partir dos ingredientes disponíveis informados pelo usuário
+- Login de usuário e banco de dados totalmente funcional
+- Em planejamento: exclusão de alimentos alergênicos indicados pelo usuário
 
-### 🧠 IA em Rust
-- Projeto de inteligência artificial que gera receitas automaticamente  
-- Exploração de lógica e automação  
+### 🎮 Jogos na Godot
+- Desenvolvimento de jogos utilizando GDScript
+- Foco em lógica, mecânicas e sistemas interativos
 
 ### 🗄️ Banco de Dados Escolar
-- Sistema completo para gerenciamento escolar  
-- Cadastro de alunos, notas e controle acadêmico  
+- Sistema completo para gerenciamento escolar
+- Cadastro de alunos, notas e controle acadêmico
+
+### 🎨 Design Gráfico e UX/UI (freelance)
+- Peças gráficas para a escola EMEF Maurício Simão
+- Cartões de visita, portfólios e banners para clientes diversos
+- Melhorias de UX/UI na estética de sites de clientes pagantes
 
 ---
 
@@ -102,7 +115,7 @@
   <img src="https://img.shields.io/badge/Instagram-C32AA3?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="www.linkedin.com/in/giovani-ribeiro-989267283" target="_blank">
+<a href="https://www.linkedin.com/in/giovani-ribeiro-989267283" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
