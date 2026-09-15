@@ -1,135 +1,147 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+o+Giovani;Dev+Web+e+Game+Dev;Criando+com+Qualquer+Engine;Sempre+evoluindo..." />
-</p>
-
-
-
-<p align="center">
-💻 Dev Web | 🎮 Game Dev | 🎨 Designer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:B3121B&height=180&section=header&text=Giovani%20Ribeiro&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Dev%20Web%20%7C%20Game%20Dev%20%7C%20Designer&descAlignY=62&descColor=E23A3A"/>
 </p>
 
 <p align="center">
-⚡ Construindo projetos com estilo, código e criatividade
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E23A3A&center=true&vCenter=true&width=600&lines=Criando+com+qualquer+engine;Web+%7C+Games+%7C+Design;Sempre+evoluindo..." />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/São_Paulo,_SP-000000?style=flat-square&logo=googlemaps&logoColor=E23A3A&labelColor=000000">
+  <img src="https://img.shields.io/badge/Disponível-Presencial_%7C_Remoto_%7C_Híbrido-000000?style=flat-square&labelColor=000000&color=E23A3A">
+</p>
 
-## 🚀 Estatísticas
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gi0vai123&show_icons=true&theme=radical&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gi0vai123&layout=compact&langs_count=7&theme=radical&title_color=39ff14&text_color=ffffff&bg_color=0d1117"/>
-
-</div>
-
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🧠 Tech Stack
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<div align="center">
 
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="GDScript (Godot)">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="GDScript (Godot)">
 
 </div>
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
----
-## 📚 Estudando
+## 📚 Estudando agora
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Hacking-39FF14?style=for-the-badge&logo=hackthebox&logoColor=black">
-<img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/APIs-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=E23A3A&labelColor=000000">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=E23A3A&labelColor=000000">
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=E23A3A&labelColor=000000">
+<img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=fastapi&logoColor=E23A3A&labelColor=000000">
 
 </div>
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
----
+## 🚀 Estatísticas
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gi0vai123&show_icons=true&hide_border=true&title_color=E23A3A&icon_color=E23A3A&text_color=FFFFFF&bg_color=0D0D0D"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gi0vai123&layout=compact&langs_count=8&hide_border=true&title_color=E23A3A&text_color=FFFFFF&bg_color=0D0D0D"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gi0vai123&hide_border=true&background=0D0D0D&ring=E23A3A&fire=E23A3A&currStreakLabel=E23A3A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFBFBF"/>
+
+</div>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gi0vai123&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+
+</div>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🎮 Projetos
 
-### 🍲 Meloon — IA em Rust
-- Aplicação desenvolvida em equipe com colegas de faculdade, em Rust, com integração a uma IA gratuita
-- Gera receitas a partir dos ingredientes disponíveis informados pelo usuário
-- Login de usuário e banco de dados totalmente funcional
-- Em planejamento: exclusão de alimentos alergênicos indicados pelo usuário
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-### 🎮 Jogos na Godot
-- Desenvolvimento de jogos utilizando GDScript
-- Foco em lógica, mecânicas e sistemas interativos
+**🍲 Meloon — IA em Rust**
+Aplicação em equipe, em Rust, com integração a uma IA gratuita. Gera receitas a partir dos ingredientes disponíveis do usuário. Login e banco de dados totalmente funcional. Em planejamento: exclusão de alimentos alergênicos.
 
-### 🗄️ Banco de Dados Escolar
-- Sistema completo para gerenciamento escolar
-- Cadastro de alunos, notas e controle acadêmico
+</td>
+<td width="50%" valign="top">
 
-### 🎨 Design Gráfico e UX/UI (freelance)
-- Peças gráficas para a escola EMEF Maurício Simão
-- Cartões de visita, portfólios e banners para clientes diversos
-- Melhorias de UX/UI na estética de sites de clientes pagantes
+**🎮 Jogos na Godot**
+Desenvolvimento de jogos com GDScript, com foco em lógica, mecânicas e sistemas interativos.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗄️ Banco de Dados Escolar**
+Sistema completo para gerenciamento escolar — cadastro de alunos, notas e controle acadêmico.
+
+</td>
+<td width="50%" valign="top">
+
+**🎨 Design Gráfico e UX/UI**
+Peças gráficas para a EMEF Maurício Simão, cartões de visita, portfólios e banners para clientes diversos, e melhorias de UX/UI em sites.
+
+</td>
+</tr>
+</table>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🌊 Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gi0vai123&theme=react-dark&bg_color=0d1117&color=39FF14&line=8A2BE2&point=39FF14&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gi0vai123&bg_color=0D0D0D&color=E23A3A&line=E23A3A&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF"/>
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:3a7bd5&height=100&section=header"/>
-</p>
-
-
-
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🌐 Contato
 
 <div align="center">
 
 <a href="mailto:giovaniribeirolima@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E23A3A&labelColor=000000">
 </a>
-
 <a href="https://wa.me/5511954930923">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=E23A3A&labelColor=000000">
 </a>
-
 <a href="https://www.instagram.com/giovani_l1ma/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-C32AA3?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E23A3A&labelColor=000000">
 </a>
-
 <a href="https://www.linkedin.com/in/giovani-ribeiro-989267283" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E23A3A&labelColor=000000">
 </a>
-
 <a href="https://gi0vai123.itch.io" target="_blank">
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=itchdotio&logoColor=E23A3A&labelColor=000000">
 </a>
-
 
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3121B,100:0D0D0D&height=100&section=footer"/>
+</p>
 
----
-
-
----
-
-⭐ Se curtir, deixa uma estrela nos projetos!
+<p align="center">⭐ Se curtir, deixa uma estrela nos projetos!</p>
