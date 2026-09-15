@@ -46,28 +46,11 @@
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🚀 Estatísticas
+## 📊 Métricas
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gi0vai123&show_icons=true&hide_border=true&title_color=E23A3A&icon_color=E23A3A&text_color=FFFFFF&bg_color=0D0D0D"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gi0vai123&layout=compact&langs_count=8&hide_border=true&title_color=E23A3A&text_color=FFFFFF&bg_color=0D0D0D"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gi0vai123&hide_border=true&background=0D0D0D&ring=E23A3A&fire=E23A3A&currStreakLabel=E23A3A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFBFBF"/>
-
-</div>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gi0vai123&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+<img src="./metrics.svg" alt="Métricas do GitHub"/>
 
 </div>
 
@@ -105,16 +88,6 @@ Peças gráficas para a EMEF Maurício Simão, cartões de visita, portfólios e
 </td>
 </tr>
 </table>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🌊 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gi0vai123&bg_color=0D0D0D&color=E23A3A&line=E23A3A&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF"/>
-
-</div>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
